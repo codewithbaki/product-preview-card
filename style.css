@@ -30,6 +30,7 @@ main {
   background-color: hsl(0, 0%, 100%);
   width: 520px;
   overflow: hidden;
+  border-radius: 0.5rem;
 }
 .image img {
   width: 100%;
